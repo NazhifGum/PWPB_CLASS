@@ -1,0 +1,27 @@
+body{
+    background-color: red;
+    }
+    .back-img{
+    background-image: url("../images.jpg");
+    width: 500px;
+    height: 500px;
+    color: black;
+    }
+    
+    /* background position + repeat */
+    .posisi{
+    background-image: url("../images.jpg");
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    
+    
+    
+    
+    
+    }
+    
+    
